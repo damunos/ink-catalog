@@ -1,0 +1,18 @@
+[
+  {
+    "STYLE#": "29M",
+    "PRODUCT_TITLE": "Jerzees Dri-Power T-Shirt",
+    "PRODUCT_DESCRIPTION": "5.4-ounce 50/50 cotton/poly.",
+    "CATEGORY_NAME": "T-Shirts",
+    "SUBCATEGORY_NAME": "Short Sleeve",
+    "MSRP": "5.76",
+    "SPEC_SHEET": "29M_specsheet.pdf",
+    "COLORS": [
+      {
+        "COLOR_NAME": "White",
+        "FRONT_MODEL_IMAGE_URL": "https://cdnm.sanmar.com/imglib/mresjpg/2017/f4/f44925b3f1a84a8c90a7cb2f1b6f4f82.jpg",
+        "FRONT_FLAT_IMAGE_URL": "https://cdnm.sanmar.com/imglib/mresjpg/2015/f6/f64cbf7dbea44dc191f2eab8a3d79042.jpg"
+      }
+    ]
+  }
+]
